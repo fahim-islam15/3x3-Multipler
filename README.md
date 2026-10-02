@@ -33,5 +33,5 @@ A 3-bit by 3-bit multiplier implemented in Verilog, taken from RTL through to a 
 
 ## GDS Viewer
 
-- [View in 3D GDS Viewer](https://gds-viewer.tinytapeout.com/?model=https://raw.githubusercontent.com/fahim-islam15/MUL3X3/master/MUL3X3_RTL_IMP_TOP.gds)
-- [View in Tiny Tapeout Explorer](https://gds-explorer.tinytapeout.com/viewer.html?gds=https://raw.githubusercontent.com/fahim-islam15/MUL3X3/master/MUL3X3_RTL_IMP_TOP.gds)
+- [View in 3D GDS Viewer](https://gds-viewer.tinytapeout.com/?model=https://raw.githubusercontent.com/fahim-islam15/3x3-Multipler/master/MUL3X3_RTL_IMP_TOP.gds)
+- [View in Tiny Tapeout Explorer](https://gds-explorer.tinytapeout.com/viewer.html?gds=https://raw.githubusercontent.com/fahim-islam15/3x3-Multipler/master/MUL3X3_RTL_IMP_TOP.gds)
